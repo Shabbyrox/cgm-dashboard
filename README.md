@@ -14,10 +14,6 @@ An enterprise-grade clinical analytics platform designed to ingest raw Continuou
 * **Clinical Guardrails:** Hardcoded logic to detect immediate medical emergencies (Hyper/Hypoglycemia) independently of the AI model.
 * **Automated Clinical Metrics:** Instant calculation of **Time-In-Range (TIR)**, **Glucose Variability (%CV)**, and **Estimated A1c (GMI)**.
 
-## 📊 Dashboard Preview
-
-![Clinical Dashboard Preview](https://raw.githubusercontent.com/your-username/your-repo-name/main/screenshot.png)
-*Note: Replace the URL above with your actual screenshot path once uploaded to GitHub.*
 
 ## 🛠️ Tech Stack
 
