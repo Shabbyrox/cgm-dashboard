@@ -37,7 +37,7 @@ The model was evaluated on a dataset of **8,200+** time-series data points. Due 
 ```bash
 cd backend
 pip install -r requirements.txt
-python main.py```
+python main.py 
 
 
 
