@@ -1,0 +1,21 @@
+# 1. Make sure you are in the root
+cd /Users/shubhamdebnath/Desktop/cgm-dashboard
+
+# 2. Create the master ignore file
+cat << 'EOF' > .gitignore
+# Frontend (Next.js)
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*
+
+# Backend (Python/FastAPI)
+backend/__pycache__/
+backend/*.py[cod]
+backend/venv/
+backend/.venv/
+backend/*.pkl
+
+# OS specific
+.DS_Store
+EOF
